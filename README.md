@@ -18,11 +18,11 @@ O sistema analisa informações como temperatura, energia, pressão dos tanques 
 
 ### Código do sistema
 
-![Código do projeto](imagens/codigo.png)
+![Código do projeto](imagens/printcodigo.png)
 
 ### Resultado da execução
 
-![Execução do sistema](imagens/execucao.png)
+![Execução do sistema](imagens/printexecucao.png)
 
 ## Como executar
 
