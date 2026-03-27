@@ -30,14 +30,15 @@ O sistema analisa informações como temperatura, energia, pressão dos tanques 
 2. Baixar este repositório
 3. Executar o arquivo:
 
-python sistema_pre_decolagem.py
+python aurorasiger.py
 
 ## Arquivos do projeto
 
-* notebook.ipynb
-* sistema_pre_decolagem.py
+* aurorasigernotebook.ipynb
+* aurorasiger.py
 * README.md
 
 ## Autor
 
 Emanuel Rocha Monteiro
+Igor
