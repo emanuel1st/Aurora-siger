@@ -40,5 +40,5 @@ python aurorasiger.py
 
 ## Autor
 
-Emanuel Rocha Monteiro
-Igor
+- Emanuel Rocha Monteiro
+- Igor
